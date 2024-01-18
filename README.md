@@ -1,4 +1,4 @@
-# Student Registration Form
+# Student Registration 
 
 Welcome to the Student Registration Form GitHub repository! This project features a robust student registration application developed using Python's Tkinter for the graphical user interface, PostgreSQL for data storage, and regular expressions for validation.
 
