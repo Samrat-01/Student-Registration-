@@ -2,8 +2,6 @@
 
 Welcome to the Student Registration Form GitHub repository! This project features a robust student registration application developed using Python's Tkinter for the graphical user interface, PostgreSQL for data storage, and regular expressions for validation.
 
-![Student Registration Form](https://user-images.githubusercontent.com/73948351/183471634-bcad5ed4-4768-461d-b411-36299b8cfffa.png)
-
 ## Overview
 
 This project offers a comprehensive student registration solution, combining a user-friendly interface, secure data storage, and thorough validation for accurate and reliable student information.
@@ -22,4 +20,4 @@ Follow these steps to get started with the Student Registration Form application
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Amitabhchaurasia/Student_Registration
+   git clone https://github.com/Samrat-01/Student-Registration-
